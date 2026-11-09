@@ -8,6 +8,19 @@ The game retains the original story and uses its combat and progression systems 
 
 Progress through the main story and side quests, learn skills, enhance and imbue equipment, craft items, and evolve your Beast. Hardcore and Hell playthroughs follow Normal mode.
 
+## Version 1.0.2
+
+[Save / Continue]
+- Fixed an issue where Wolfgang's subordinate's early dialogue would not progress after saving in another Winterharts area, interior, or connecting passage and continuing the game.
+
+[NPC indicators]
+- Synchronized the movement speed of ! and ? above NPCs with their character animation speed.
+
+[Android]
+- Added a skip button at the existing menu/cancel button position during regular dialogue.
+- Changed the skill cooldown display.
+
+
 ## Download and play
 
 ### Windows (64-bit)
@@ -20,7 +33,7 @@ The build is for 64-bit Windows PCs. You do not need Unity Editor or Steam to pl
 
 ### Android (8.0 or later)
 
-Download the APK from the [v1.0.1 release](https://github.com/Donamet/Heroes-Lore-2-Remastered-Public/releases/tag/v1.0.1) to your phone or tablet, then open it to install. If prompted, allow the app you opened the APK with to install apps. Launch the game in landscape.
+Download the APK from the [v1.0.2 release](https://github.com/Donamet/Heroes-Lore-2-Remastered-Public/releases/tag/v1.0.2) to your phone or tablet, then open it to install. If prompted, allow the app you opened the APK with to install apps. Launch the game in landscape.
 
 ## Controls
 
