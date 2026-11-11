@@ -20,6 +20,9 @@ Progress through the main story and side quests, learn skills, enhance and imbue
 - Added a skip button at the existing menu/cancel button position during regular dialogue.
 - Changed the skill cooldown display.
 
+[11/11 hotfix]
+- Fixed an issue that prevented input on the Hardcore entry prompt after the ending.
+
 
 ## Download and play
 
